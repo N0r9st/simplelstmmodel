@@ -41,3 +41,4 @@ torchvision==0.6.1
 ujson==1.35
 unicodecsv==0.14.1
 urllib3==1.25.8
+whitenoise==5.1.0
